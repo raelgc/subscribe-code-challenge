@@ -8,7 +8,10 @@ A Ruby application that calculates sales tax and import duty for shopping items.
 ```bash
 ruby index.rb
 ```
-Then enter items one by one in the format: `quantity item_name at price` (e.g., `1 book at 12.49`)
+Then enter items one by one in the format: `quantity item_name at price`. Example:
+
+    1 book at 12.49
+
 Press Ctrl+C when finished to see the receipt.
 
 ### Run Tests
